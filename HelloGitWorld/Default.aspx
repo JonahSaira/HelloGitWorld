@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
-                A change in master to understand Commit and push with github
+                A change in master to understand Commit and sync with github
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
